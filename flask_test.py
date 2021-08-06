@@ -11,5 +11,4 @@ def sms_reply():
 	return 'Hello world'
 
 if __name__ == '__main__':
-	app.debug=True
 	app.run()
